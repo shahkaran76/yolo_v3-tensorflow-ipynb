@@ -26,3 +26,6 @@ To build the YOLO we will require :
 4. IPython (for displaying images in Jupyter Notebook) 
 5. Glob (for finding pathname of all the files in a folder)
 
+## 4  Acknowledgements
+
+YOLO - https://pjreddie.com/darknet/yolo/
