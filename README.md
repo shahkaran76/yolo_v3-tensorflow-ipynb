@@ -12,6 +12,10 @@ networks. It applies a single Neural network to the Full Image. This network div
 into regions and predicts bounding boxes and probabilities for each region. These bounding boxes
 are weighted by the predicted probabilities.
 
+![alt text](https://github.com/shahkaran76/yolo_v3-tensorflow-ipynb/blob/master/output_54_10.png)
+
+![alt text](https://github.com/shahkaran76/yolo_v3-tensorflow-ipynb/blob/master/output_54_4.png)
+
 ## 2  Why this Notebook?
 
 The original YOLO algorithm is deployed in Darknet. Darknet is an open source neural network
