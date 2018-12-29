@@ -1,0 +1,2 @@
+Download yolo v3 weights here in this directory.
+https://pjreddie.com/media/files/yolov3.weights
